@@ -1,3 +1,3 @@
-Link da imagem no Dockerhub: `nataliarios/fullcycle`
+Link da imagem no Dockerhub: `nataliarivers/fullcycle`
 
-Para executar: `docker run nataliarios/fullcycle`
+Para executar: `docker run nataliarivers/fullcycle`
